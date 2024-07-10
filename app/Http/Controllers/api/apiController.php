@@ -8,7 +8,7 @@ use App\Http\Controllers\api\requestController;
 
 
 class apiController extends requestController
-{
+{//*********************-+++++++++++++++ */
 	use DataManagement;
 
 	public function __construct()
